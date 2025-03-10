@@ -8,7 +8,7 @@ Summary:	Classes implementing the SARIF 2.1.0 object model
 Summary(pl.UTF-8):	Klasy implementujące model obiektowy SARIF 2.1.0
 Name:		python-sarif_om
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sarif-om/
